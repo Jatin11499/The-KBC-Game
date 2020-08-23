@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>The KBC Game</label>
+	</settings>
+	<users>
+		<user>
+			<path>The KBC Game.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>The KBC Game.jcp</path>
+		</project>
+	</projects>
+</workspace>
